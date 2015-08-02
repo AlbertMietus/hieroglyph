@@ -1,4 +1,6 @@
 *.pyc
+.DS_Store
+
 
 .installed.cfg
 bin
@@ -21,4 +23,5 @@ _build
 .sass-cache
 /pip-selfcheck.json
 .DS_Store
+src/TDD_testslides/__Result/
 
