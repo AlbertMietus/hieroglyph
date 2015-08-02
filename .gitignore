@@ -20,3 +20,5 @@ _build
 /.tox/
 .sass-cache
 /pip-selfcheck.json
+.DS_Store
+
